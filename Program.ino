@@ -11,8 +11,8 @@
 
 char auth[] = "lyRJXXFaMrvbTpBtYsPNW0I-QOzw3k8O";
 
-char ssid[] = "Phamily";
-char pass[] = "JumpStr33t21#";
+char ssid[] = "SSID";
+char pass[] = "Paswoord";
 
 
 
